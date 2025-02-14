@@ -9,7 +9,9 @@ export default function Home() {
       <div>
         <h1>checkout page link is down here</h1>
 
-        <Link href={"/checkout"}>checkout page</Link>
+        <Link href={"/checkout"} className="text-blue-700 underline">
+          checkout page
+        </Link>
       </div>
     </>
   );
