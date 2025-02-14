@@ -11,7 +11,7 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         header: "#FFFFFF",
-        primary: "##12372A",
+        primary: "#12372A",
         secondary: "#FCFCFC",
       },
     },
