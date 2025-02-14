@@ -11,7 +11,7 @@ const CardInput = ({ title, type, placeholder }) => {
           type={type}
           name={title}
           placeholder={placeholder}
-          className="md:w-[627.88px] w-[80vw] h-[36.81px] border border-[#E0E5F2] outline-none px-3 rounded-[10px] placeholder:text-[#A3AED0] mt-2"
+          className="md:w-[627.88px] w-[86vw] h-[36.81px] border border-[#E0E5F2] outline-none px-3 rounded-[10px] placeholder:text-[#A3AED0] mt-2"
         />
       </div>
     </>
